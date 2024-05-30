@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "phaser3-rex-plugins": "^1.80.2",
+    "phaser": "^3.80.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "net": "^1.0.2",
+    "path": "^0.12.7"
+  
+  }
+}
